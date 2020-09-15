@@ -1,3 +1,24 @@
 <resources>
+    <!-- GLOBAL -->
     <string name="app_name">Real Estate Manager</string>
+
+    <!-- Toolbar-->
+    <string name="item_search">Search</string>
+    <string name="item_edit">Edit</string>
+    <string name="item_create">Create</string>
+    <string name="item_prefs">Preferences</string>
+    <string name="create_title">Create Property</string>
+    <string name="edit_title">Edit Property</string>
+    <string name="logout_title">Logout</string>
+    <string name="map_title">Maps</string>
+    <string name="item_estate_loan_simulator">Estate Loan Simulator</string>
+
+    <!-- Navigation drawer -->
+    <string name="navigation_drawer_open">Open drawer</string>
+    <string name="navigation_drawer_closed">Close drawer</string>
+
+    <!-- OTHER -->
+    <string name="dollars">$</string>
+    <string name="euros">€</string>
+
 </resources>
